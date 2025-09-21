@@ -8,7 +8,7 @@ In this project, I demonstrated how to present machine learning as a web applica
 - `titanic.csv` and `model_weights.mw`: data file and pre-trained model
 - `requirements.txt`: package requirements files
 
-## how to run the application locally (win)
+## How to run the application locally (win)
 
 ```shell
 $ python -m venv venv
@@ -16,3 +16,8 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 $ streamlit run web_app.py
 ```
+Open http://localhost:8501 to view the app.
+
+## Docker
+
+in progress...
