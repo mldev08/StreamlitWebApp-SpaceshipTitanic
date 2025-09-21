@@ -1,0 +1,6 @@
+services:
+  streamlitfirstproject:
+    image: streamlitfirstproject
+    build:
+      context: .
+      dockerfile: ./Dockerfile
